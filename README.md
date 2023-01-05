@@ -13,3 +13,5 @@ using javascript to create a really annoying cookie consent form...
 -CSS: row-reverse
 -toggle classes
 -"disabled" attribute
+
+live site: https://imattk.github.io/CookieConsentForm/
